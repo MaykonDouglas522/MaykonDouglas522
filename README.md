@@ -3,7 +3,7 @@
 Meu nome é Maykon Douglas
 
 - Estou estudando Alura
-- Estou me desenvolviendo naLinguagem JavaScript
+- Estou me desenvolvendo na Linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo 👍
